@@ -1,0 +1,1 @@
+# Classical QMC methods documentation
